@@ -1,6 +1,6 @@
 # Linux Smart OS
 
-Linux Smart OS is a minimal, AI-powered, terminal-based Linux distribution. It integrates **HuggingFace AI** for natural language processing in the shell.
+Linux Smart is a minimal, AI-powered, terminal-based Linux distribution. It integrates **HuggingFace AI** for natural language processing in the shell.
 
 ## Features
 - Lightweight and optimized
