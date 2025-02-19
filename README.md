@@ -9,8 +9,18 @@ Linux Smart is a minimal, AI-powered, terminal-based Linux distribution. It inte
 - QEMU/KVM compatibility
 - Automated build and deployment
 
+## System Requirements
+- x86_64 CPU
+- At least 512MB RAM
+- 1GB disk space
+
 ## Installation
 1. Download the latest ISO:
    ```bash
    git clone https://github.com/linux-smart/linux-smart.git
    cd linux-smart/dist
+   
+2. Write to USB (optional):
+   ```bash
+   sudo dd if=linux-smart-os.iso of=/dev/sdX bs=4M status=progress && sync
+   ./scripts/test_iso.sh
