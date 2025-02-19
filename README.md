@@ -22,5 +22,11 @@ Linux Smart is a minimal, AI-powered, terminal-based Linux distribution. It inte
    
 2. Write to USB (optional):
    ```bash
-   sudo dd if=linux-smart-os.iso of=/dev/sdX bs=4M status=progress && sync
+   sudo dd if=linux-smart.iso of=/dev/sdX bs=4M status=progress && sync
    ./scripts/test_iso.sh
+
+## Building from Source
+```bash
+git clone https://github.com/linux-smart/linux-smart.git
+cd linux-smart
+./scripts/build_iso.sh
