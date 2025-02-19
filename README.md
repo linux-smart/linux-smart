@@ -1,16 +1,16 @@
-## Hi there 👋
+# Linux Smart OS
 
-<!--
-**linux-smart/linux-smart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux Smart OS is a minimal, AI-powered, terminal-based Linux distribution. It integrates **HuggingFace AI** for natural language processing in the shell.
 
-Here are some ideas to get you started:
+## Features
+- Lightweight and optimized
+- AI-driven command execution
+- WiFi, sound, and essential utilities included
+- QEMU/KVM compatibility
+- Automated build and deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Installation
+1. Download the latest ISO:
+   ```bash
+   git clone https://github.com/linux-smart/linux-smart.git
+   cd linux-smart/dist
