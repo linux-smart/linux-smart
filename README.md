@@ -1,4 +1,4 @@
-# Linux Smart OS
+# Linux Smart
 
 Linux Smart is a minimal, AI-powered, terminal-based Linux distribution. It integrates **HuggingFace AI** for natural language processing in the shell.
 
