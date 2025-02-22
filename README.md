@@ -15,4 +15,4 @@
 [![README](https://img.icons8.com/?size=100&id=VUckOuTyLQ7W&format=png&color=22C3E6)](https://github.com/linux-smart/linux-smart/blob/main/docs/README.md)
 [![README](https://img.icons8.com/?size=100&id=ZdiFEhDnZ9kk&format=png&color=22C3E6)](https://github.com/linux-smart/linux-smart/blob/main/docs/RESOURCES.md)
 [![README](https://img.icons8.com/?size=100&id=JwQbESRFaaa1&format=png&color=22C3E6)](https://github.com/linux-smart/linux-smart/blob/main/docs/COMMUNITY.md)
-[![README](https://img.icons8.com/?size=100&id=9227&format=png&color=22C3E6)](https://github.com/linux-smart/linux-smart/blob/main/docs/BUGS.md)
+[![README](https://img.icons8.com/?size=100&id=MB5CRcW9coKA&format=png&color=22C3E6)](https://github.com/linux-smart/linux-smart/blob/main/docs/BUGS.md)
