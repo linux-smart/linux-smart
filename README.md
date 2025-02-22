@@ -1,6 +1,6 @@
 # Linux Smart
 
-**Linux Smart** is a minimal, AI-powered, terminal-based Linux distribution. It integrates **HuggingFace** for natural language processing in the shell.
+**Linux Smart** is a minimal, intuitively powered, terminal-based Linux distribution. It integrates **HuggingFace** for natural language processing in the shell.
 
 ## Features
 - Lightweight and optimized
