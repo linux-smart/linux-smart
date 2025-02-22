@@ -17,3 +17,4 @@
 [![README](https://img.icons8.com/?size=100&id=JwQbESRFaaa1&format=png&color=22C3E6)](https://github.com/linux-smart/linux-smart/blob/main/docs/COMMUNITY.md)
 [![README](https://img.icons8.com/?size=100&id=MB5CRcW9coKA&format=png&color=22C3E6)](https://github.com/linux-smart/linux-smart/blob/main/docs/BUGS.md)
 [![README](https://img.icons8.com/?size=100&id=113122&format=png&color=22C3E6)](https://github.com/linux-smart/linux-smart/blob/main/docs/BUGS.md)
+[![README](https://img.icons8.com/?size=100&id=7749&format=png&color=22C3E6)](https://github.com/linux-smart/linux-smart/blob/main/docs/CONTRIBUTION.md)
