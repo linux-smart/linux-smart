@@ -9,6 +9,11 @@
 - QEMU/KVM compatibility
 - Automated build and deployment
 
+## System Requirements
+- x86_64 CPU
+- At least 512MB RAM
+- 1GB disk space
+
 ## Installation
 1. Download the latest ISO:
    ```bash
