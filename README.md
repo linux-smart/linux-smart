@@ -11,7 +11,7 @@
 
 ## Navigation
 [![Install](https://github.com/user-attachments/assets/75d2c668-0ad2-4cfa-a878-49d07372bcb3)](https://github.com/linux-smart/linux-smart/blob/main/docs/INSTALL.md)
-[![Developer](https://img.icons8.com/?size=100&id=12486&format=png&color=000000)](https://github.com/linux-smart/linux-smart/blob/main/docs/INSTALL.md)
+[![Developer](https://img.icons8.com/?size=100&id=SQzCuGgBP3on&format=png&color=22C3E6)](https://github.com/linux-smart/linux-smart/blob/main/docs/INSTALL.md)
 
 
 
