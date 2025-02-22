@@ -25,30 +25,3 @@
 
 ## Versioning
 Linux Smart OS follows semantic versioning (MAJOR.MINOR.PATCH).
-
-### **Installation Guide**  
-
-**File:** `INSTALL.md`  
-**Location:** `~/linux-smart/docs/INSTALL.md`  
-
-```markdown
-# Installation Guide for Linux Smart
-
-## System Requirements
-- x86_64 CPU
-- At least 512MB RAM
-- 1GB disk space
-
-## Building from Source
-   ```bash
-   git clone https://github.com/linux-smart/linux-smart.git
-   cd linux-smart
-   ./scripts/build_iso.sh
-
-### **Running in QEMU/KVM**
-   ```bash
-   ./scripts/test_iso.sh
-
-### **Writing to USB**
-   ```bash
-   sudo dd if=dist/linux-smart-os.iso of=/dev/sdX bs=4M status=progress && sync
