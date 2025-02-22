@@ -24,4 +24,4 @@
    ./scripts/test_iso.sh
 
 ## Versioning
-Linux Smart OS follows semantic versioning (MAJOR.MINOR.PATCH).
+Linux Smart follows semantic versioning (MAJOR.MINOR.PATCH).
