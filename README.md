@@ -1,5 +1,5 @@
-
-# Linux Smart ![icons8-linux](https://github.com/user-attachments/assets/271ae331-48ba-47dc-8139-d78f8cdbd64e)
+![icons8-linux](https://github.com/user-attachments/assets/271ae331-48ba-47dc-8139-d78f8cdbd64e)
+# Linux Smart
 
 **Linux Smart** is a minimal, intuitively powered, terminal-based Linux distribution.
 
