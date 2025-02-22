@@ -10,5 +10,10 @@
 - Automated build and deployment
 
 ## Navigation
-[![Install](https://img.icons8.com/?size=100&id=fNhK69jcCzI2&format=png&color=000000)](https://github.com/linux-smart/linux-smart/blob/main/docs/INSTALL.md)
+[![Install](https://github.com/user-attachments/assets/75d2c668-0ad2-4cfa-a878-49d07372bcb3)](https://github.com/linux-smart/linux-smart/blob/main/docs/INSTALL.md)
 [![Developer](https://github.com/user-attachments/assets/444def90-0957-438e-9226-7588471cd5f6)](https://github.com/linux-smart/linux-smart/blob/main/docs/INSTALL.md)
+
+
+
+
+
