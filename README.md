@@ -8,6 +8,8 @@
 - QEMU/KVM compatibility
 - Automated build and deployment
 
+<br><br><br>
+
 <p align="center">
   <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/README.md"><img src="https://img.icons8.com/?size=100&id=VUckOuTyLQ7W&format=png&color=22C3E6" alt="README"></a>
   <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/DEVELOPER.md"><img src="https://img.icons8.com/?size=100&id=SQzCuGgBP3on&format=png&color=22C3E6" alt="Developer"></a>
