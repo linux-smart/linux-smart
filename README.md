@@ -12,9 +12,7 @@
 ## 
 <p align="center">
   <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/INSTALL.md"><img src="https://img.icons8.com/?size=100&id=37823&format=png&color=22C3E6"></a>
-  <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/DEVELOPER.md">
-    <img src="https://img.icons8.com/?size=100&id=SQzCuGgBP3on&format=png&color=22C3E6" alt="Developer">
-  </a>
+  <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/DEVELOPER.md"><img src="https://img.icons8.com/?size=100&id=SQzCuGgBP3on&format=png&color=22C3E6" alt="Developer"></a>
   <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/README.md">
     <img src="https://img.icons8.com/?size=100&id=VUckOuTyLQ7W&format=png&color=22C3E6" alt="README">
   </a>
