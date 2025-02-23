@@ -10,12 +10,32 @@
 - Automated build and deployment
 
 ## Navigation
-[![Install](https://img.icons8.com/?size=100&id=37823&format=png&color=22C3E6)](https://github.com/linux-smart/linux-smart/blob/main/docs/INSTALL.md)
-[![Developer](https://img.icons8.com/?size=100&id=SQzCuGgBP3on&format=png&color=22C3E6)](https://github.com/linux-smart/linux-smart/blob/main/docs/DEVELOPER.md)
-[![README](https://img.icons8.com/?size=100&id=VUckOuTyLQ7W&format=png&color=22C3E6)](https://github.com/linux-smart/linux-smart/blob/main/docs/README.md)
-[![README](https://img.icons8.com/?size=100&id=ZdiFEhDnZ9kk&format=png&color=22C3E6)](https://github.com/linux-smart/linux-smart/blob/main/docs/RESOURCES.md)
-[![README](https://img.icons8.com/?size=100&id=JwQbESRFaaa1&format=png&color=22C3E6)](https://github.com/linux-smart/linux-smart/blob/main/docs/COMMUNITY.md)
-[![README](https://img.icons8.com/?size=100&id=MB5CRcW9coKA&format=png&color=22C3E6)](https://github.com/linux-smart/linux-smart/blob/main/docs/BUGS.md)
-[![README](https://img.icons8.com/?size=100&id=113122&format=png&color=22C3E6)](https://github.com/linux-smart/linux-smart/blob/main/docs/BUGS.md)
-[![README](https://img.icons8.com/?size=100&id=7749&format=png&color=22C3E6)](https://github.com/linux-smart/linux-smart/blob/main/docs/CONTRIBUTION.md)
-[![README](https://img.icons8.com/?size=100&id=9blJF1yB01VU&format=png&color=22C3E6)](https://github.com/linux-smart/linux-smart/blob/main/docs/DOCUMENTATION.md)
+<p align="center">
+  <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/INSTALL.md">
+    <img src="https://img.icons8.com/?size=100&id=37823&format=png&color=22C3E6" alt="Install">
+  </a>
+  <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/DEVELOPER.md">
+    <img src="https://img.icons8.com/?size=100&id=SQzCuGgBP3on&format=png&color=22C3E6" alt="Developer">
+  </a>
+  <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/README.md">
+    <img src="https://img.icons8.com/?size=100&id=VUckOuTyLQ7W&format=png&color=22C3E6" alt="README">
+  </a>
+  <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/RESOURCES.md">
+    <img src="https://img.icons8.com/?size=100&id=ZdiFEhDnZ9kk&format=png&color=22C3E6" alt="Resources">
+  </a>
+  <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/COMMUNITY.md">
+    <img src="https://img.icons8.com/?size=100&id=JwQbESRFaaa1&format=png&color=22C3E6" alt="Community">
+  </a>
+  <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/BUGS.md">
+    <img src="https://img.icons8.com/?size=100&id=MB5CRcW9coKA&format=png&color=22C3E6" alt="Bugs">
+  </a>
+  <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/BUGS.md">
+    <img src="https://img.icons8.com/?size=100&id=113122&format=png&color=22C3E6" alt="Bugs">
+  </a>
+  <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/CONTRIBUTION.md">
+    <img src="https://img.icons8.com/?size=100&id=7749&format=png&color=22C3E6" alt="Contribution">
+  </a>
+  <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/DOCUMENTATION.md">
+    <img src="https://img.icons8.com/?size=100&id=9blJF1yB01VU&format=png&color=22C3E6" alt="Documentation">
+  </a>
+</p>
