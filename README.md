@@ -1,4 +1,4 @@
-# Linux Smart
+![linux-smart-50x50](https://github.com/user-attachments/assets/eeaec2e1-7228-4197-bd6d-04730868a238) # Linux Smart
 
 **Linux Smart** is a minimal, intuitively powered, terminal-based Linux distribution.
 
@@ -19,5 +19,6 @@
   <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/BUGS.md"><img src="https://img.icons8.com/?size=100&id=MB5CRcW9coKA&format=png&color=22C3E6" alt="Bugs"></a>
   <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/BUGS.md"><img src="https://img.icons8.com/?size=100&id=113122&format=png&color=22C3E6" alt="Bugs"></a>
   <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/CONTRIBUTION.md"><img src="https://img.icons8.com/?size=100&id=7749&format=png&color=22C3E6" alt="Contribution"></a>
-  <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/DOCUMENTATION.md"><img src="https://img.icons8.com/?size=100&id=9blJF1yB01VU&format=png&color=22C3E6" alt="Documentation"></a>
+  <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/DOCUMENTATION.md"><img src="https://img.icons8.com/size=100&id=9blJF1yB01VU&format=png&color=22C3E6" alt="Documentation"></a>
 </p>
+
