@@ -18,4 +18,5 @@
   <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/BUGS.md"><img src="https://img.icons8.com/?size=100&id=MB5CRcW9coKA&format=png&color=22C3E6" alt="Bugs"></a>
   <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/BUGS.md"><img src="https://img.icons8.com/?size=100&id=113122&format=png&color=22C3E6" alt="Bugs"></a>
   <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/CONTRIBUTION.md"><img src="https://img.icons8.com/?size=100&id=7749&format=png&color=22C3E6" alt="Contribution"></a>
+  <a href="https://github.com/linux-smart/linux-smart/blob/main/docs/CONTRIBUTION.md"><img src="https://img.icons8.com/?size=100&id=7749&format=png&color=22C3E6" alt="Contribution"></a>
 </p>
