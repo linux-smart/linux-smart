@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e6cec3ac-b0b0-4928-a8fb-bbbefa7bfde4" alt="Linux Smart" style="vertical-align: middle;">
-  <span style="display: inline-block; margin-left: 10px; font-size: 24px; font-weight: bold;">Linux Smart</span>
-</p>
-
-
-
-
-
-
 ![linux-smart-75x75](https://github.com/user-attachments/assets/e6cec3ac-b0b0-4928-a8fb-bbbefa7bfde4)
 
 # Linux Smart
