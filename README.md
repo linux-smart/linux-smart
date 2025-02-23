@@ -2,13 +2,6 @@
   <img src="https://github.com/user-attachments/assets/e6cec3ac-b0b0-4928-a8fb-bbbefa7bfde4" alt="Linux Smart" style="vertical-align: middle;">
 </p>
 
-
-
-
-
-![linux-smart-75x75](https://github.com/user-attachments/assets/e6cec3ac-b0b0-4928-a8fb-bbbefa7bfde4)
-
-
 # Linux Smart
 **Linux Smart** is a minimal, intuitively powered, terminal-based Linux distribution.
 
