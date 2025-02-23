@@ -1,4 +1,5 @@
-![linux-smart-50x50](https://github.com/user-attachments/assets/eeaec2e1-7228-4197-bd6d-04730868a238) # Linux Smart
+
+![linux-smart-75x75](https://github.com/user-attachments/assets/e6cec3ac-b0b0-4928-a8fb-bbbefa7bfde4)
 
 **Linux Smart** is a minimal, intuitively powered, terminal-based Linux distribution.
 
